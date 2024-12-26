@@ -1,5 +1,5 @@
 import React from "react";
-import getImageUrl from "../../utils";
+import { getImageUrl } from "../../utils";
 
 import styles from "./Contact.module.css";
 
@@ -25,6 +25,10 @@ const Contact = () => {
                 <li className={styles.link}>
                     <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
                     <a href="https://github.com/Arashi-Crow">github.com/Arashi-Crow</a>
+                </li>
+                <li className={styles.link}>
+                    <img src={getImageUrl("contact/codePen.png")} alt="CodePen icon" />
+                    <a href="https://codepen.io/arashi_crow">codepen/arashi_crow</a>
                 </li>
             </ul>
         </footer>

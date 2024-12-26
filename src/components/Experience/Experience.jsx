@@ -1,17 +1,12 @@
 import React from "react";
 
+import { getImageUrl } from "../../utils";
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 
 
 const Experience = () => {
-
-    const getImageUrl = (imageSrc) => {
-        const basePath = new URL('../../../assets/', import.meta.url).href;
-        return `${basePath}/${imageSrc}`;;
-    };
-
     return (
         <section className={styles.container} id="experience">
             <h2 className={styles.title}>Experience</h2>
