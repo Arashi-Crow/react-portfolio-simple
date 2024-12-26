@@ -1,0 +1,39 @@
+[
+    {
+        "role": "Senior Frontend Developer",
+        "organisation": "Ntd Software",
+        "startDate": "May, 2022",
+        "endDate": "Present",
+        "experiences": [
+            "Develop new functionality for the learning platform",
+            "Support bug resolution",
+            "Agile methodology",
+            "Front End Stack with React, CSS, Jquery, Javascript, Java, JSP"
+        ],
+        "imageSrc": "history/ntd.jpg"
+    },
+    {
+        "role": "Senior Frontend Developer",
+        "organisation": "Tata Consultancy Services",
+        "startDate": "Feb, 2020",
+        "endDate": "Abr, 2022",
+        "experiences": [
+            "Develop angular applications for booking flow for a hotel group",
+            "Support bug resolution",
+            "Agile methodology",
+            "Front End Stack with Angular, CSS, Typescript, Nodejs"
+        ],
+        "imageSrc": "history/tata.jpg"
+    },
+    {
+        "role": "Analyst Programmer",
+        "organisation": "Jabil",
+        "startDate": "Feb, 2017",
+        "endDate": "Sept, 2019",
+        "experiences": [
+            "Worked on Office projects for internal use",
+            "Fullstack in .Net, SQL, Javascript, Hmtl, CSS, Angular"
+        ],
+        "imageSrc": "history/jabil.jpg"
+    }
+]

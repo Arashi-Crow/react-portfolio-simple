@@ -1,0 +1,42 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Jquery",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Angular",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "skills/node.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/graphql.png"
+    },
+    {
+        "title": "c#",
+        "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/figma.png"
+    }
+]
