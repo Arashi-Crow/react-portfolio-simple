@@ -8,12 +8,16 @@
         "imageSrc": "skills/css.png"
     },
     {
+        "title": "SASS",
+        "imageSrc": "skills/sass.png"
+    },
+    {
         "title": "JavaScript",
-        "imageSrc": "skills/react.png"
+        "imageSrc": "skills/javascript.png"
     },
     {
         "title": "Jquery",
-        "imageSrc": "skills/react.png"
+        "imageSrc": "skills/jquery.png"
     },
     {
         "title": "React",
@@ -21,7 +25,7 @@
     },
     {
         "title": "Angular",
-        "imageSrc": "skills/react.png"
+        "imageSrc": "skills/angular.png"
     },
     {
         "title": "Node",
@@ -29,14 +33,14 @@
     },
     {
         "title": "SQL",
-        "imageSrc": "skills/graphql.png"
+        "imageSrc": "skills/sql.png"
     },
     {
-        "title": "c#",
-        "imageSrc": "skills/mongodb.png"
+        "title": "C#",
+        "imageSrc": "skills/csharp.png"
     },
     {
         "title": "Java",
-        "imageSrc": "skills/figma.png"
+        "imageSrc": "skills/java.png"
     }
 ]
