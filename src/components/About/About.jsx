@@ -1,6 +1,7 @@
 import React from "react";
 
 import styles from "./About.module.css";
+import { getImageUrl } from "../../utils";
 
 const About = () => {
     return (
@@ -8,13 +9,13 @@ const About = () => {
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
                 <img
-                    src="../../../assets/about/aboutImage.png"
+                    src={getImageUrl("about/aboutImage.png")}
                     alt="Me sitting with a laptop"
                     className={styles.aboutImage}
                 />
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
-                        <img src="../../../assets/about/cursorIcon.png" alt="Cursor icon" />
+                        <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
                             <p>
@@ -24,7 +25,7 @@ const About = () => {
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src="../../../assets/about/serverIcon.png" alt="Server icon" />
+                        <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Backend Developer</h3>
                             <p>
@@ -34,7 +35,7 @@ const About = () => {
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
-                        <img src="../../../assets/about/cursorIcon.png" alt="UI icon" />
+                        <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
                         <div className={styles.aboutItemText}>
                             <h3>UI Designer</h3>
                             <p>
